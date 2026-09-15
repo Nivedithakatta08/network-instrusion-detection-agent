@@ -325,7 +325,7 @@ Responsible for:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Nivedithakatta08/SentinelAI.git
+git clone https://github.com/Nivedithakatta08/network-instrusion-detection-agent
 cd SentinelAI
 ```
 
