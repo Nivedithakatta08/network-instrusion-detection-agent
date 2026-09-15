@@ -325,11 +325,9 @@ Responsible for:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SentinelAI.git
+git clone https://github.com/Nivedithakatta08/SentinelAI.git
 cd SentinelAI
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ---
 
@@ -704,7 +702,7 @@ Use the project only on systems and networks for which you have authorization.
 
 # 👨‍💻 Author
 
-**Your Name**
+**Niveditha**
 
 GitHub: `https://github.com/Nivedithakatta08`
 
