@@ -710,12 +710,4 @@ Project: `SentinelAI`
 
 ---
 
-# ⭐ Support
 
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
-
----
-
-## 🛡️ SentinelAI
-
-> **Capture → Analyze → Detect → Explain → Respond**
