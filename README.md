@@ -700,9 +700,9 @@ Use the project only on systems and networks for which you have authorization.
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Authors
 
-**Niveditha**
+**Niveditha Katta, Meghana Kammari, Kokonda Sravya, Anupama Sharma**
 
 GitHub: `https://github.com/Nivedithakatta08`
 
